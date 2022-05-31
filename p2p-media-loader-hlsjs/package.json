@@ -4,7 +4,7 @@
   "version": "0.6.2",
   "license": "Apache-2.0",
   "author": "Novage",
-  "homepage": "https://github.com/Novage/p2p-media-loader",
+  "homepage": "https://github.com/haibodongg/p2p",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "keywords": [
@@ -32,7 +32,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Novage/p2p-media-loader.git"
+    "url": "https://github.com/haibodongg/p2p.git"
   },
   "dependencies": {
     "events": "^3.3.0",
